@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class FeatureSun {
+public class FeatureSun {
+    int Temperature;
+    String Heat;
+    int size;
+
 }
